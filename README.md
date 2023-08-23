@@ -15,7 +15,7 @@
 ## Skills
 
 - Natural Language: Chinese (Native); English (CET-6)
-- Programming Language: **Python**; C++; Java; JavaScript; Go
+- Programming Language: **Python**; C++; Java; JavaScript; Go; Ruby
 - Typesetting Language: LaTeX; Markdown
 - Framework: Django; Springboot; Scrapy; Docker; MySQL; Redis
 
