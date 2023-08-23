@@ -17,7 +17,7 @@
 - Natural Language: Chinese (Native); English (CET-6)
 - Programming Language: **Python**; C++; Java; JavaScript; Go; Ruby
 - Typesetting Language: LaTeX; Markdown
-- Framework: Django; Springboot; Scrapy; Docker; MySQL; Redis
+- Technology Stack: Django; Springboot; Scrapy; Docker; MySQL; Redis
 
 <!--
 **OnlyAR/OnlyAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
