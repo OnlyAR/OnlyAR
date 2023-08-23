@@ -1,6 +1,23 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAR&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAR&hide=HTML" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAR)](https://github.com/OnlyAR/github-readme-stats)
+<!-- ![OnlyAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyAR&show_icons=true&theme=tokyonight) -->
+
+# Junhao Zhang
+
+## Education
+
+🌱 2020.09-*Present* School of Software, Beihang University
+
+## Research Interests
+
+- Natural Language Processing
+
+## Skills
+
+- Natural Language: Chinese (Native); English (CET-6)
+- Programming Language: **Python**; C++; Java; JavaScript; Go
+- Typesetting Language: LaTeX; Markdown
+- Framework: Django; Springboot; Scrapy; Docker; MySQL; Redis
 
 <!--
 **OnlyAR/OnlyAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
