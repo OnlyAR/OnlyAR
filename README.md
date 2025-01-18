@@ -7,6 +7,7 @@
 ## Education
 
 🌱 2020.09-2024.06 School of Software, Beihang University
+
 🖥️ 2024.09-*Present* National Superior College for Engineers, Beihang University
 
 ## Research Interests
