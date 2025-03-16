@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAR&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAR&hide=HTML" />
-
 <!-- ![OnlyAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyAR&show_icons=true&theme=tokyonight) -->
 
 # Junhao Zhang
