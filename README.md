@@ -20,7 +20,7 @@
 - Typesetting Language: LaTeX; Markdown
 - Technology Stack: Docker; Django; Springboot; Scrapy; MySQL; Redis
 
-<figure><embed src="https://wakatime.com/share/@f5feabbc-a5ba-450d-b167-7624a3647c35/04d7b5c2-caaa-446b-85e5-4876755ea854.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f5feabbc-a5ba-450d-b167-7624a3647c35/3d671d01-3b40-4c79-a4e4-357b38e7e757.png" /></a>
 
 <!--
 **OnlyAR/OnlyAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
