@@ -11,7 +11,9 @@
 ## Research Interests
 
 - Natural Language Processing
+- LLM Application Development
 - LLM Long Text Generation
+- Retrieval-Augmented Generation (RAG)
 
 ## Skills
 
@@ -20,7 +22,7 @@
 - Typesetting Language: LaTeX; Markdown
 - Technology Stack: Docker; Django; Springboot; Scrapy; MySQL; Redis
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f5feabbc-a5ba-450d-b167-7624a3647c35/3d671d01-3b40-4c79-a4e4-357b38e7e757.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f5feabbc-a5ba-450d-b167-7624a3647c35/6b19f899-a41e-49f3-9b28-c0615a1e8662.png" /></a>
 
 <!--
 **OnlyAR/OnlyAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
